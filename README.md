@@ -27,8 +27,14 @@ CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 ```
 
-### Start the app
+### Start the app Client
 
 ```shell
 npm run dev
+```
+
+### Start the app Server
+
+```shell
+npm start
 ```
